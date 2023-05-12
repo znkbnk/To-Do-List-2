@@ -1,6 +1,7 @@
 # To-do-list-2
 
 Project: Todo List
+
 Step 1: Setup
 Create a new React project using your preferred method. You can use create-react-app or any other tool you like.
 
